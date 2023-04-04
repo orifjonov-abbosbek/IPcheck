@@ -1,3 +1,4 @@
-body{
-  background-color: black;
+body {
+  background: black url('./assets/map.png') no-repeat;
+  background-position: calc(50% + 20px) calc(50% + 240px) ;
 }
